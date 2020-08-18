@@ -2,8 +2,6 @@ Predicting sentiment from product reviews
 
 The goal of this assignment is to explore logistic regression and feature engineering with existing Turi Create functions.
 
-we will learn:
-
     * Use SFrames to do some feature engineering
     * Train a logistic regression model to predict the sentiment of product reviews.
     * Inspect the weights (coefficients) of a trained logistic regression model.
