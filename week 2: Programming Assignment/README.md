@@ -12,3 +12,6 @@ The goal of this assignment is to implement your own logistic regression classif
   - Compute classification accuracy for the logistic regression model.
   - Let's get started!
 
+# Algorithm
+- Logistic Regression
+
