@@ -6,3 +6,8 @@ In this assignment we will explore various techniques for preventing overfitting
 * Implement binary decision trees with different early stopping methods.
 * Compare models with different stopping parameters.
 * Visualize the concept of overfitting in decision trees.
+
+# Algorithm
+- Decision Tree
+# Data
+* csv data link - https://bit.ly/3g12ICp
