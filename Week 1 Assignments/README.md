@@ -12,3 +12,5 @@
 
 # Algorithm: 
 Logistic Regression
+# Data
+* csv_file link - https://bit.ly/34zw85o
